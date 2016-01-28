@@ -1,4 +1,22 @@
 local function run(msg)
+if msg.text == "Pesaram" then
+	return "Gun baba ali"
+end
+if msg.text == "ina kiyan pesarem" then
+	return "ye mosht koskhole bikarn baba"
+end
+if msg.text == "Bye pesaram" then
+	return "Bye baba"
+end
+if msg.text == "Ali" then
+	return "ba babaye man chikar dari"
+end
+if msg.text == "ali" then
+	return "ba babaye man chikar dari"
+end
+if msg.text == "salam pesaram" then
+	return "salam babaaaaa"
+end
 if msg.text == "hi" then
 	return "Hello bb"
 end
