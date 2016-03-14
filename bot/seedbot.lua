@@ -220,7 +220,7 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {153416374,0,tonumber(our_id)},--Sudo users
+    sudo_users = {115740444,0,tonumber(our_id)},--Sudo users
     disabled_channels = {}
     realm ={},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -236,7 +236,7 @@ topkecleon
 Vamptacus
 
 Our channels
-@teleseedch [English]
+@terinux [English]
 ]],
     help_text = [[
 Commands list :
